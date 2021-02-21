@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "Change Network card on server 007",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-02-21T08:21:07.308Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed Hard Drive on workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-02-21T09:41:37.772Z"
+    },
+    {
+      "message": "1122 wierless upgrade",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-02-21T08:21:45.515Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
